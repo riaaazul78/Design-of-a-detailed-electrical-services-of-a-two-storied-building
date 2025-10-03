@@ -47,7 +47,7 @@ Standards & Tools (examples)
 
 Applicable standards: local electrical code / NEC / IEC / BS standards (choose per jurisdiction).
 
-Tools: AutoCAD (drawings), spreadsheet (load & cable calculations), ETAP/DIgSILENT/other (optional for advanced studies).
+Tools: Microsoft Visio (drawings), spreadsheet (load & cable calculations).
 
 Deliverables
 
